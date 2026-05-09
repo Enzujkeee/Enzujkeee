@@ -77,15 +77,13 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/rec.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/Enzujkeee/Enzujkeee/blob/main/rec.jpg?raw=true)
 [<img src="/sertificat.jpg" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/Enzujkeee/Enzujkeee/refs/heads/main/sertificat.jpg)
 [<img src="/sertificat2.jpg" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">]([https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_4fresh.png](https://github.com/Enzujkeee/Enzujkeee/blob/main/sertificat2.jpg?raw=true))
 
 <br>
 
 ## 🎒 Образование
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/diplom.png)
-[<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/recommendation.png)
+[<img src="/rec.jpg" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/Enzujkeee/Enzujkeee/refs/heads/main/rec.jpg)
 
 <br>
 <br>
